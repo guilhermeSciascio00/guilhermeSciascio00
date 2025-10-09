@@ -5,7 +5,7 @@
 ### About Me 🎯
 
 💻 Eager Student. Currently studying Unity 2D and 3D, you can check all the recent work I've done in the Prototype Build Repo.<br>
-📚 Always eager to study even more. Learning Shaders, Physics , Mathematics, English and Spanish.<br>
+📚 Always eager to study even more. Unity/C#, Python, Mathematics, English and Spanish.<br>
 🎓 Bachelor's degree in Game Design from Anhembi Morumbi University.<br>
 🎮 I also love playing video games!<br>
 🧑‍💼 I'm currently seeking job opportunities as a Game Dev/Programmer Junior or Game Tester Junior<br>
