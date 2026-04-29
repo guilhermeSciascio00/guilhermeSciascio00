@@ -4,10 +4,9 @@
 
 ### About Me 🎯
 
-💻 Eager Student. Currently studying Unity 2D and 3D, you can check all the recent work I've done in the Prototype Build Repo.<br>
-📚 Always eager to study even more. I'm Learning: Unity/C#, ASP.NET, QA, Mathematics, English and Spanish.<br>
+💻 Eager Student! <br>
+📚 Always eager to study even more. I'm Learning: Unity/C#, ASP.NET, FrontEnd(HTML,CSS and JS), English🇺🇸 and Spanish🇪🇸.<br>
 🎓 Bachelor's degree in Game Design from Anhembi Morumbi University.<br>
-🎮 I also love playing video games!<br>
-🧑‍💼 I'm currently seeking job opportunities as a Game Dev/Programmer Junior or Game Tester Junior<br>
+🪐 Currently working at Saturno Software as a Junior Dev. <br>
 
 Well, that's me!
