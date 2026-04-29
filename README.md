@@ -4,7 +4,6 @@
 
 ### About Me 🎯
 
-💻 Eager Student! <br>
 📚 Always eager to study even more. I'm Learning: Unity/C#, ASP.NET, FrontEnd(HTML,CSS and JS), English🇺🇸 and Spanish🇪🇸.<br>
 🎓 Bachelor's degree in Game Design from Anhembi Morumbi University.<br>
 🪐 Currently working at Saturno Software as a Junior Dev. <br>
