@@ -8,5 +8,5 @@
 🎓 Bachelor's degree in Game Design from Anhembi Morumbi University.<br>
 🪐 Currently working at Saturno Software as a Junior Dev. <br>
 
-Well, that's me!
+Well, that's me! <br>
 Stay tuned for future updates :D
